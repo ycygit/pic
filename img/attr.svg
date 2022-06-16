@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="855px" preserveAspectRatio="none" style="width:2068px;height:855px;background:#FFFFFF;" version="1.1" viewBox="0 0 2068 855" width="2068px" zoomAndPan="magnify"><defs><filter height="300%" id="fvn50fuble4rj" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[afaa2783c113c9e610596342da8a14ae]
+class attribute--><rect codeLine="1" fill="#FEFECE" filter="url(#fvn50fuble4rj)" height="243.2983" id="attribute" style="stroke:#A80036;stroke-width:1.5;" width="330" x="1073.5" y="7"/><ellipse cx="1212.25" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1211.5938,28.8594 Q1209.6094,28.8594 1208.4375,27.3906 Q1207.2813,25.9063 1207.2813,22.8281 Q1207.2813,20.2188 1208.5,18.4688 Q1209.7344,16.7188 1211.8594,16.7188 Q1212.3594,16.7188 1212.8906,16.8594 Q1213.3281,17.0469 1213.5938,17.0469 Q1213.8125,17.0469 1213.9063,17 Q1214.0156,16.9531 1214.4688,16.3594 L1215.2344,20.0938 L1214.3438,20.3594 Q1213.8906,18.9063 1213.2813,18.3125 Q1212.6875,17.7031 1211.7344,17.7031 Q1210.5156,17.7031 1209.7969,19.1406 Q1209.0781,20.5625 1209.0781,22.75 Q1209.0781,25.1563 1209.6875,26.4531 Q1210.3125,27.7344 1211.6719,27.7344 Q1212.625,27.7344 1213.3125,27.0469 Q1214,26.3438 1214.3281,24.8438 L1215.2344,25.25 Q1214.8281,26.9531 1213.8594,27.9063 Q1212.9063,28.8594 1211.5938,28.8594 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="44" x="1232.75" y="28.5576">attribute</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1074.5" x2="1402.5" y1="39" y2="39"/><ellipse cx="1084.5" cy="50" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="49" x="1093.5" y="55.606">struct impl</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1074.5" x2="1402.5" y1="62.0229" y2="62.0229"/><ellipse cx="1084.5" cy="73.0229" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="47" x="1093.5" y="78.6289">attribute()</text><ellipse cx="1084.5" cy="88.0459" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="147" x="1093.5" y="93.6519">attribute(attribute const &amp; that)</text><ellipse cx="1084.5" cy="103.0688" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="124" x="1093.5" y="108.6748">attribute(attribute &amp;&amp; that)</text><ellipse cx="1084.5" cy="118.0918" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="188" x="1093.5" y="123.6978">explicit attribute(intrusive_ptr&lt; impl &gt; p)</text><ellipse cx="1084.5" cy="133.1147" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="204" x="1093.5" y="138.7207">attribute&amp; operator=(attribute const &amp; that)</text><ellipse cx="1084.5" cy="148.1377" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="181" x="1093.5" y="153.7437">attribute&amp; operator=(attribute &amp;&amp; that)</text><ellipse cx="1084.5" cy="163.1606" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="104" x="1093.5" y="168.7666">bool operator!() const</text><ellipse cx="1084.5" cy="178.1836" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="159" x="1093.5" y="183.7896">attribute_value get_value() const</text><ellipse cx="1084.5" cy="193.2065" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="129" x="1093.5" y="198.8125">void swap(attribute &amp; that)</text><ellipse cx="1084.5" cy="208.2295" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="304" x="1093.5" y="213.8354">template&lt;typename T&gt; friend T attribute_cast(attribute const &amp;)</text><polygon fill="#FFFF44" points="1084.5,218.2524,1088.5,222.2524,1084.5,226.2524,1080.5,222.2524" style="stroke:#B38D22;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="105" x="1093.5" y="228.8584">impl * get_impl() const</text><polygon fill="#FFFF44" points="1084.5,233.2754,1088.5,237.2754,1084.5,241.2754,1080.5,237.2754" style="stroke:#B38D22;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="175" x="1093.5" y="243.8813">void set_impl(intrusive_ptr&lt; impl &gt; p)</text><!--MD5=[33a5db2f9df906abda1fb9df8be898a1]
+class constant--><rect codeLine="23" fill="#FEFECE" filter="url(#fvn50fuble4rj)" height="108.0918" id="constant" style="stroke:#A80036;stroke-width:1.5;" width="253" x="379" y="332.5"/><ellipse cx="477.75" cy="348.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M477.0938,354.3594 Q475.1094,354.3594 473.9375,352.8906 Q472.7813,351.4063 472.7813,348.3281 Q472.7813,345.7188 474,343.9688 Q475.2344,342.2188 477.3594,342.2188 Q477.8594,342.2188 478.3906,342.3594 Q478.8281,342.5469 479.0938,342.5469 Q479.3125,342.5469 479.4063,342.5 Q479.5156,342.4531 479.9688,341.8594 L480.7344,345.5938 L479.8438,345.8594 Q479.3906,344.4063 478.7813,343.8125 Q478.1875,343.2031 477.2344,343.2031 Q476.0156,343.2031 475.2969,344.6406 Q474.5781,346.0625 474.5781,348.25 Q474.5781,350.6563 475.1875,351.9531 Q475.8125,353.2344 477.1719,353.2344 Q478.125,353.2344 478.8125,352.5469 Q479.5,351.8438 479.8281,350.3438 L480.7344,350.75 Q480.3281,352.4531 479.3594,353.4063 Q478.4063,354.3594 477.0938,354.3594 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="47" x="498.25" y="354.0576">constant</text><line style="stroke:#A80036;stroke-width:1.5;" x1="380" x2="631" y1="364.5" y2="364.5"/><line style="stroke:#A80036;stroke-width:1.5;" x1="380" x2="631" y1="372.5" y2="372.5"/><ellipse cx="390" cy="383.5" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="211" x="399" y="389.106">explicit constant(value_type const &amp; value);</text><ellipse cx="390" cy="398.5229" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="188" x="399" y="404.1289">explicit constant(value_type &amp;&amp; value);</text><ellipse cx="390" cy="413.5459" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="227" x="399" y="419.1519">explicit constant(cast_source const &amp; source);</text><ellipse cx="390" cy="428.5688" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="152" x="399" y="434.1748">value_type const &amp; get() const;</text><!--MD5=[814d806de4363a165abd7102dcf3d9a6]
+class counter--><rect codeLine="29" fill="#FEFECE" filter="url(#fvn50fuble4rj)" height="93.0688" id="counter" style="stroke:#A80036;stroke-width:1.5;" width="336" x="720.5" y="340"/><ellipse cx="863.75" cy="356" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M863.0938,361.8594 Q861.1094,361.8594 859.9375,360.3906 Q858.7813,358.9063 858.7813,355.8281 Q858.7813,353.2188 860,351.4688 Q861.2344,349.7188 863.3594,349.7188 Q863.8594,349.7188 864.3906,349.8594 Q864.8281,350.0469 865.0938,350.0469 Q865.3125,350.0469 865.4063,350 Q865.5156,349.9531 865.9688,349.3594 L866.7344,353.0938 L865.8438,353.3594 Q865.3906,351.9063 864.7813,351.3125 Q864.1875,350.7031 863.2344,350.7031 Q862.0156,350.7031 861.2969,352.1406 Q860.5781,353.5625 860.5781,355.75 Q860.5781,358.1563 861.1875,359.4531 Q861.8125,360.7344 863.1719,360.7344 Q864.125,360.7344 864.8125,360.0469 Q865.5,359.3438 865.8281,357.8438 L866.7344,358.25 Q866.3281,359.9531 865.3594,360.9063 Q864.4063,361.8594 863.0938,361.8594 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="41" x="884.25" y="361.5576">counter</text><line style="stroke:#A80036;stroke-width:1.5;" x1="721.5" x2="1055.5" y1="372" y2="372"/><ellipse cx="731.5" cy="383" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="102" x="740.5" y="388.606">typedef T value_type</text><line style="stroke:#A80036;stroke-width:1.5;" x1="721.5" x2="1055.5" y1="395.0229" y2="395.0229"/><ellipse cx="731.5" cy="406.0229" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="310" x="740.5" y="411.6289">explicit counter(value_type initial = (value_type) 0, long step = 1)</text><ellipse cx="731.5" cy="421.0459" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="219" x="740.5" y="426.6519">explicit counter(cast_source const &amp; source)</text><!--MD5=[066bc5dbd20f338e54af0b9b1edc3979]
+class current_process_id--><rect codeLine="34" fill="#FEFECE" filter="url(#fvn50fuble4rj)" height="78.0459" id="current_process_id" style="stroke:#A80036;stroke-width:1.5;" width="303" x="7" y="643"/><ellipse cx="100.75" cy="659" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M100.0938,664.8594 Q98.1094,664.8594 96.9375,663.3906 Q95.7813,661.9063 95.7813,658.8281 Q95.7813,656.2188 97,654.4688 Q98.2344,652.7188 100.3594,652.7188 Q100.8594,652.7188 101.3906,652.8594 Q101.8281,653.0469 102.0938,653.0469 Q102.3125,653.0469 102.4063,653 Q102.5156,652.9531 102.9688,652.3594 L103.7344,656.0938 L102.8438,656.3594 Q102.3906,654.9063 101.7813,654.3125 Q101.1875,653.7031 100.2344,653.7031 Q99.0156,653.7031 98.2969,655.1406 Q97.5781,656.5625 97.5781,658.75 Q97.5781,661.1563 98.1875,662.4531 Q98.8125,663.7344 100.1719,663.7344 Q101.125,663.7344 101.8125,663.0469 Q102.5,662.3438 102.8281,660.8438 L103.7344,661.25 Q103.3281,662.9531 102.3594,663.9063 Q101.4063,664.8594 100.0938,664.8594 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="107" x="121.25" y="664.5576">current_process_id</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="309" y1="675" y2="675"/><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="309" y1="683" y2="683"/><ellipse cx="18" cy="694" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="103" x="27" y="699.606">current_process_id()</text><ellipse cx="18" cy="709.0229" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="277" x="27" y="714.6289">explicit current_process_id(cast_source const &amp; source)</text><!--MD5=[a165d824c9f78b61ce4aac50f45d96e7]
+class current_process_name--><rect codeLine="38" fill="#FEFECE" filter="url(#fvn50fuble4rj)" height="78.0459" id="current_process_name" style="stroke:#A80036;stroke-width:1.5;" width="321" x="345" y="643"/><ellipse cx="436.75" cy="659" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M436.0938,664.8594 Q434.1094,664.8594 432.9375,663.3906 Q431.7813,661.9063 431.7813,658.8281 Q431.7813,656.2188 433,654.4688 Q434.2344,652.7188 436.3594,652.7188 Q436.8594,652.7188 437.3906,652.8594 Q437.8281,653.0469 438.0938,653.0469 Q438.3125,653.0469 438.4063,653 Q438.5156,652.9531 438.9688,652.3594 L439.7344,656.0938 L438.8438,656.3594 Q438.3906,654.9063 437.7813,654.3125 Q437.1875,653.7031 436.2344,653.7031 Q435.0156,653.7031 434.2969,655.1406 Q433.5781,656.5625 433.5781,658.75 Q433.5781,661.1563 434.1875,662.4531 Q434.8125,663.7344 436.1719,663.7344 Q437.125,663.7344 437.8125,663.0469 Q438.5,662.3438 438.8281,660.8438 L439.7344,661.25 Q439.3281,662.9531 438.3594,663.9063 Q437.4063,664.8594 436.0938,664.8594 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="129" x="457.25" y="664.5576">current_process_name</text><line style="stroke:#A80036;stroke-width:1.5;" x1="346" x2="665" y1="675" y2="675"/><line style="stroke:#A80036;stroke-width:1.5;" x1="346" x2="665" y1="683" y2="683"/><ellipse cx="356" cy="694" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="121" x="365" y="699.606">current_process_name()</text><ellipse cx="356" cy="709.0229" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="295" x="365" y="714.6289">explicit current_process_name(cast_source const &amp; source)</text><!--MD5=[12c23dc0864ac6af3c987eff8fdc9980]
+class current_thread_id--><rect codeLine="42" fill="#FEFECE" filter="url(#fvn50fuble4rj)" height="78.0459" id="current_thread_id" style="stroke:#A80036;stroke-width:1.5;" width="294" x="1091.5" y="347.5"/><ellipse cx="1185.75" cy="363.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1185.0938,369.3594 Q1183.1094,369.3594 1181.9375,367.8906 Q1180.7813,366.4063 1180.7813,363.3281 Q1180.7813,360.7188 1182,358.9688 Q1183.2344,357.2188 1185.3594,357.2188 Q1185.8594,357.2188 1186.3906,357.3594 Q1186.8281,357.5469 1187.0938,357.5469 Q1187.3125,357.5469 1187.4063,357.5 Q1187.5156,357.4531 1187.9688,356.8594 L1188.7344,360.5938 L1187.8438,360.8594 Q1187.3906,359.4063 1186.7813,358.8125 Q1186.1875,358.2031 1185.2344,358.2031 Q1184.0156,358.2031 1183.2969,359.6406 Q1182.5781,361.0625 1182.5781,363.25 Q1182.5781,365.6563 1183.1875,366.9531 Q1183.8125,368.2344 1185.1719,368.2344 Q1186.125,368.2344 1186.8125,367.5469 Q1187.5,366.8438 1187.8281,365.3438 L1188.7344,365.75 Q1188.3281,367.4531 1187.3594,368.4063 Q1186.4063,369.3594 1185.0938,369.3594 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="97" x="1206.25" y="369.0576">current_thread_id</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1092.5" x2="1384.5" y1="379.5" y2="379.5"/><line style="stroke:#A80036;stroke-width:1.5;" x1="1092.5" x2="1384.5" y1="387.5" y2="387.5"/><ellipse cx="1102.5" cy="398.5" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="94" x="1111.5" y="404.106">current_thread_id()</text><ellipse cx="1102.5" cy="413.5229" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="268" x="1111.5" y="419.1289">explicit current_thread_id(cast_source const &amp; source)</text><!--MD5=[0f35ce0a82e1bd182b432c0968175f32]
+class mutable_constant--><rect codeLine="50" fill="#FEFECE" filter="url(#fvn50fuble4rj)" height="153.1606" id="mutable_constant" style="stroke:#A80036;stroke-width:1.5;" width="293" x="1421" y="310"/><ellipse cx="1513.75" cy="326" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1513.0938,331.8594 Q1511.1094,331.8594 1509.9375,330.3906 Q1508.7813,328.9063 1508.7813,325.8281 Q1508.7813,323.2188 1510,321.4688 Q1511.2344,319.7188 1513.3594,319.7188 Q1513.8594,319.7188 1514.3906,319.8594 Q1514.8281,320.0469 1515.0938,320.0469 Q1515.3125,320.0469 1515.4063,320 Q1515.5156,319.9531 1515.9688,319.3594 L1516.7344,323.0938 L1515.8438,323.3594 Q1515.3906,321.9063 1514.7813,321.3125 Q1514.1875,320.7031 1513.2344,320.7031 Q1512.0156,320.7031 1511.2969,322.1406 Q1510.5781,323.5625 1510.5781,325.75 Q1510.5781,328.1563 1511.1875,329.4531 Q1511.8125,330.7344 1513.1719,330.7344 Q1514.125,330.7344 1514.8125,330.0469 Q1515.5,329.3438 1515.8281,327.8438 L1516.7344,328.25 Q1516.3281,329.9531 1515.3594,330.9063 Q1514.4063,331.8594 1513.0938,331.8594 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="99" x="1534.25" y="331.5576">mutable_constant</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1422" x2="1713" y1="342" y2="342"/><line style="stroke:#A80036;stroke-width:1.5;" x1="1422" x2="1713" y1="350" y2="350"/><ellipse cx="1432" cy="361" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="251" x="1441" y="366.606">explicit mutable_constant(value_type const &amp; value)</text><ellipse cx="1432" cy="376.0229" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="228" x="1441" y="381.6289">explicit mutable_constant(value_type &amp;&amp; value)</text><ellipse cx="1432" cy="391.0459" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="267" x="1441" y="396.6519">explicit mutable_constant(cast_source const &amp; source)</text><ellipse cx="1432" cy="406.0688" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="168" x="1441" y="411.6748">void set(value_type const &amp; value)</text><ellipse cx="1432" cy="421.0918" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="145" x="1441" y="426.6978">void set(value_type &amp;&amp; value)</text><ellipse cx="1432" cy="436.1147" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="109" x="1441" y="441.7207">value_type get() const</text><polygon fill="#FFFF44" points="1432,446.1377,1436,450.1377,1432,454.1377,1428,450.1377" style="stroke:#B38D22;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="105" x="1441" y="456.7437">impl * get_impl() const</text><!--MD5=[7a80a77731cf66dbecab93b5dbe9c652]
+class named_scope--><rect codeLine="59" fill="#FEFECE" filter="url(#fvn50fuble4rj)" height="153.1606" id="named_scope" style="stroke:#A80036;stroke-width:1.5;" width="276" x="1749.5" y="310"/><ellipse cx="1843.25" cy="326" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1842.5938,331.8594 Q1840.6094,331.8594 1839.4375,330.3906 Q1838.2813,328.9063 1838.2813,325.8281 Q1838.2813,323.2188 1839.5,321.4688 Q1840.7344,319.7188 1842.8594,319.7188 Q1843.3594,319.7188 1843.8906,319.8594 Q1844.3281,320.0469 1844.5938,320.0469 Q1844.8125,320.0469 1844.9063,320 Q1845.0156,319.9531 1845.4688,319.3594 L1846.2344,323.0938 L1845.3438,323.3594 Q1844.8906,321.9063 1844.2813,321.3125 Q1843.6875,320.7031 1842.7344,320.7031 Q1841.5156,320.7031 1840.7969,322.1406 Q1840.0781,323.5625 1840.0781,325.75 Q1840.0781,328.1563 1840.6875,329.4531 Q1841.3125,330.7344 1842.6719,330.7344 Q1843.625,330.7344 1844.3125,330.0469 Q1845,329.3438 1845.3281,327.8438 L1846.2344,328.25 Q1845.8281,329.9531 1844.8594,330.9063 Q1843.9063,331.8594 1842.5938,331.8594 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="80" x="1863.75" y="331.5576">named_scope</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1750.5" x2="2024.5" y1="342" y2="342"/><ellipse cx="1760.5" cy="353" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="186" x="1769.5" y="358.606">typedef named_scope_list  value_type</text><ellipse cx="1760.5" cy="368.0229" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="216" x="1769.5" y="373.6289">typedef value_type::value_type scope_entry</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1750.5" x2="2024.5" y1="380.0459" y2="380.0459"/><ellipse cx="1760.5" cy="391.0459" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="76" x="1769.5" y="396.6519">named_scope()</text><ellipse cx="1760.5" cy="406.0688" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="250" x="1769.5" y="411.6748">explicit named_scope(cast_source const &amp; source)</text><ellipse cx="1760.5" cy="421.0918" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="249" x="1769.5" y="426.6978">static void push_scope(scope_entry const &amp; entry)</text><ellipse cx="1760.5" cy="436.1147" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="114" x="1769.5" y="441.7207">static void pop_scope()</text><ellipse cx="1760.5" cy="451.1377" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="190" x="1769.5" y="456.7437">static value_type const &amp; get_scopes()</text><!--MD5=[a2616f62a6290191e9b8e72521f66c0e]
+class named_scope_list--><rect codeLine="68" fill="#FEFECE" filter="url(#fvn50fuble4rj)" height="318.4131" id="named_scope_list" style="stroke:#A80036;stroke-width:1.5;" width="334" x="1720.5" y="523"/><ellipse cx="1831.75" cy="539" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1831.0938,544.8594 Q1829.1094,544.8594 1827.9375,543.3906 Q1826.7813,541.9063 1826.7813,538.8281 Q1826.7813,536.2188 1828,534.4688 Q1829.2344,532.7188 1831.3594,532.7188 Q1831.8594,532.7188 1832.3906,532.8594 Q1832.8281,533.0469 1833.0938,533.0469 Q1833.3125,533.0469 1833.4063,533 Q1833.5156,532.9531 1833.9688,532.3594 L1834.7344,536.0938 L1833.8438,536.3594 Q1833.3906,534.9063 1832.7813,534.3125 Q1832.1875,533.7031 1831.2344,533.7031 Q1830.0156,533.7031 1829.2969,535.1406 Q1828.5781,536.5625 1828.5781,538.75 Q1828.5781,541.1563 1829.1875,542.4531 Q1829.8125,543.7344 1831.1719,543.7344 Q1832.125,543.7344 1832.8125,543.0469 Q1833.5,542.3438 1833.8281,540.8438 L1834.7344,541.25 Q1834.3281,542.9531 1833.3594,543.9063 Q1832.4063,544.8594 1831.0938,544.8594 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="103" x="1852.25" y="544.5576">named_scope_list</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1721.5" x2="2053.5" y1="555" y2="555"/><ellipse cx="1731.5" cy="566" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="253" x="1740.5" y="571.606">typedef allocator_type::value_type          value_type;</text><ellipse cx="1731.5" cy="581.0229" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="264" x="1740.5" y="586.6289">typedef implementation_defined              const_iterator;</text><ellipse cx="1731.5" cy="596.0459" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="231" x="1740.5" y="601.6519">typedef implementation_defined              iterator;</text><ellipse cx="1731.5" cy="611.0688" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="308" x="1740.5" y="616.6748">typedef implementation_defined              const_reverse_iterator;</text><ellipse cx="1731.5" cy="626.0918" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="275" x="1740.5" y="631.6978">typedef implementation_defined              reverse_iterator;</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1721.5" x2="2053.5" y1="638.1147" y2="638.1147"/><ellipse cx="1731.5" cy="649.1147" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="98" x="1740.5" y="654.7207">named_scope_list();</text><ellipse cx="1731.5" cy="664.1377" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="225" x="1740.5" y="669.7437">named_scope_list(named_scope_list const &amp;);</text><ellipse cx="1731.5" cy="679.1606" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="282" x="1740.5" y="684.7666">named_scope_list&amp; operator=(named_scope_list const &amp;);</text><ellipse cx="1731.5" cy="694.1836" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="104" x="1740.5" y="699.7896">~named_scope_list();</text><ellipse cx="1731.5" cy="709.2065" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="137" x="1740.5" y="714.8125">const_iterator begin() const;</text><ellipse cx="1731.5" cy="724.2295" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="129" x="1740.5" y="729.8354">const_iterator end() const;</text><ellipse cx="1731.5" cy="739.2524" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="185" x="1740.5" y="744.8584">const_reverse_iterator rbegin() const;</text><ellipse cx="1731.5" cy="754.2754" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="177" x="1740.5" y="759.8813">const_reverse_iterator rend() const;</text><ellipse cx="1731.5" cy="769.2983" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="111" x="1740.5" y="774.9043">size_type size() const;</text><ellipse cx="1731.5" cy="784.3213" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="93" x="1740.5" y="789.9272">bool empty() const;</text><ellipse cx="1731.5" cy="799.3442" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="159" x="1740.5" y="804.9502">void swap(named_scope_list &amp;);</text><ellipse cx="1731.5" cy="814.3672" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="148" x="1740.5" y="819.9731">const_reference back() const;</text><ellipse cx="1731.5" cy="829.3901" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="148" x="1740.5" y="834.9961">const_reference front() const;</text><!--MD5=[8bed4af61bb5859e46feba98fd8456ec]
+class impl--><rect codeLine="88" fill="#FEFECE" filter="url(#fvn50fuble4rj)" height="48" id="impl" style="stroke:#A80036;stroke-width:1.5;" width="56" x="701.5" y="658"/><ellipse cx="716.5" cy="674" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M715.8438,679.8594 Q713.8594,679.8594 712.6875,678.3906 Q711.5313,676.9063 711.5313,673.8281 Q711.5313,671.2188 712.75,669.4688 Q713.9844,667.7188 716.1094,667.7188 Q716.6094,667.7188 717.1406,667.8594 Q717.5781,668.0469 717.8438,668.0469 Q718.0625,668.0469 718.1563,668 Q718.2656,667.9531 718.7188,667.3594 L719.4844,671.0938 L718.5938,671.3594 Q718.1406,669.9063 717.5313,669.3125 Q716.9375,668.7031 715.9844,668.7031 Q714.7656,668.7031 714.0469,670.1406 Q713.3281,671.5625 713.3281,673.75 Q713.3281,676.1563 713.9375,677.4531 Q714.5625,678.7344 715.9219,678.7344 Q716.875,678.7344 717.5625,678.0469 Q718.25,677.3438 718.5781,675.8438 L719.4844,676.25 Q719.0781,677.9531 718.1094,678.9063 Q717.1563,679.8594 715.8438,679.8594 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="730.5" y="679.5576">impl</text><line style="stroke:#A80036;stroke-width:1.5;" x1="702.5" x2="756.5" y1="690" y2="690"/><line style="stroke:#A80036;stroke-width:1.5;" x1="702.5" x2="756.5" y1="698" y2="698"/><!--MD5=[624c6e69fffb8ba97c0471dcafb34f78]
+class impl_dec--><rect codeLine="90" fill="#FEFECE" filter="url(#fvn50fuble4rj)" height="78.0459" id="impl_dec" style="stroke:#A80036;stroke-width:1.5;" width="191" x="793" y="643"/><ellipse cx="858.75" cy="659" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M858.0938,664.8594 Q856.1094,664.8594 854.9375,663.3906 Q853.7813,661.9063 853.7813,658.8281 Q853.7813,656.2188 855,654.4688 Q856.2344,652.7188 858.3594,652.7188 Q858.8594,652.7188 859.3906,652.8594 Q859.8281,653.0469 860.0938,653.0469 Q860.3125,653.0469 860.4063,653 Q860.5156,652.9531 860.9688,652.3594 L861.7344,656.0938 L860.8438,656.3594 Q860.3906,654.9063 859.7813,654.3125 Q859.1875,653.7031 858.2344,653.7031 Q857.0156,653.7031 856.2969,655.1406 Q855.5781,656.5625 855.5781,658.75 Q855.5781,661.1563 856.1875,662.4531 Q856.8125,663.7344 858.1719,663.7344 Q859.125,663.7344 859.8125,663.0469 Q860.5,662.3438 860.8281,660.8438 L861.7344,661.25 Q861.3281,662.9531 860.3594,663.9063 Q859.4063,664.8594 858.0938,664.8594 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="51" x="879.25" y="664.5576">impl_dec</text><line style="stroke:#A80036;stroke-width:1.5;" x1="794" x2="983" y1="675" y2="675"/><line style="stroke:#A80036;stroke-width:1.5;" x1="794" x2="983" y1="683" y2="683"/><ellipse cx="804" cy="694" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="165" x="813" y="699.606">explicit impl_dec(value_type initial)</text><ellipse cx="804" cy="709.0229" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="129" x="813" y="714.6289">attribute_value get_value()</text><!--MD5=[c3c2f9beb94910ff6235537123414266]
+class impl_generic--><rect codeLine="94" fill="#FEFECE" filter="url(#fvn50fuble4rj)" height="78.0459" id="impl_generic" style="stroke:#A80036;stroke-width:1.5;" width="223" x="1019" y="643"/><ellipse cx="1090.25" cy="659" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1089.5938,664.8594 Q1087.6094,664.8594 1086.4375,663.3906 Q1085.2813,661.9063 1085.2813,658.8281 Q1085.2813,656.2188 1086.5,654.4688 Q1087.7344,652.7188 1089.8594,652.7188 Q1090.3594,652.7188 1090.8906,652.8594 Q1091.3281,653.0469 1091.5938,653.0469 Q1091.8125,653.0469 1091.9063,653 Q1092.0156,652.9531 1092.4688,652.3594 L1093.2344,656.0938 L1092.3438,656.3594 Q1091.8906,654.9063 1091.2813,654.3125 Q1090.6875,653.7031 1089.7344,653.7031 Q1088.5156,653.7031 1087.7969,655.1406 Q1087.0781,656.5625 1087.0781,658.75 Q1087.0781,661.1563 1087.6875,662.4531 Q1088.3125,663.7344 1089.6719,663.7344 Q1090.625,663.7344 1091.3125,663.0469 Q1092,662.3438 1092.3281,660.8438 L1093.2344,661.25 Q1092.8281,662.9531 1091.8594,663.9063 Q1090.9063,664.8594 1089.5938,664.8594 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="72" x="1110.75" y="664.5576">impl_generic</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1020" x2="1241" y1="675" y2="675"/><line style="stroke:#A80036;stroke-width:1.5;" x1="1020" x2="1241" y1="683" y2="683"/><ellipse cx="1030" cy="694" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="197" x="1039" y="699.606">impl_generic(value_type initial, long step)</text><ellipse cx="1030" cy="709.0229" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="129" x="1039" y="714.6289">attribute_value get_value()</text><!--MD5=[b979a1d3b03e023635d4600cbda8115a]
+class impl_inc--><rect codeLine="98" fill="#FEFECE" filter="url(#fvn50fuble4rj)" height="78.0459" id="impl_inc" style="stroke:#A80036;stroke-width:1.5;" width="187" x="1277" y="643"/><ellipse cx="1342.75" cy="659" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1342.0938,664.8594 Q1340.1094,664.8594 1338.9375,663.3906 Q1337.7813,661.9063 1337.7813,658.8281 Q1337.7813,656.2188 1339,654.4688 Q1340.2344,652.7188 1342.3594,652.7188 Q1342.8594,652.7188 1343.3906,652.8594 Q1343.8281,653.0469 1344.0938,653.0469 Q1344.3125,653.0469 1344.4063,653 Q1344.5156,652.9531 1344.9688,652.3594 L1345.7344,656.0938 L1344.8438,656.3594 Q1344.3906,654.9063 1343.7813,654.3125 Q1343.1875,653.7031 1342.2344,653.7031 Q1341.0156,653.7031 1340.2969,655.1406 Q1339.5781,656.5625 1339.5781,658.75 Q1339.5781,661.1563 1340.1875,662.4531 Q1340.8125,663.7344 1342.1719,663.7344 Q1343.125,663.7344 1343.8125,663.0469 Q1344.5,662.3438 1344.8281,660.8438 L1345.7344,661.25 Q1345.3281,662.9531 1344.3594,663.9063 Q1343.4063,664.8594 1342.0938,664.8594 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="47" x="1363.25" y="664.5576">impl_inc</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1278" x2="1463" y1="675" y2="675"/><line style="stroke:#A80036;stroke-width:1.5;" x1="1278" x2="1463" y1="683" y2="683"/><ellipse cx="1288" cy="694" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="161" x="1297" y="699.606">explicit impl_inc(value_type initial)</text><ellipse cx="1288" cy="709.0229" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="129" x="1297" y="714.6289">attribute_value get_value()</text><!--MD5=[f887e7e090a28003440d5598e05a16b7]
+reverse link constant to current_process_name--><path codeLine="105" d="M505.5,460.9 C505.5,518.64 505.5,596.76 505.5,642.73 " fill="none" id="constant-backto-current_process_name" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="498.5,460.65,505.5,440.65,512.5,460.65,498.5,460.65" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[91eac86e1b0d484d16157d74e028ef28]
+reverse link constant to current_process_id--><path codeLine="106" d="M416.21,452.69 C387.41,474.45 355.66,499.22 327.5,523 C281.16,562.13 230.69,610.07 197.08,642.81 " fill="none" id="constant-backto-current_process_id" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="412.12,447.01,432.32,440.6,420.52,458.21,412.12,447.01" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[d7b417fb69c115d4627fb3a350491c5c]
+reverse link attribute to constant--><path codeLine="107" d="M1054.35,189.43 C950.64,223.71 818.94,268.1 702.5,310 C679.67,318.22 655.46,327.24 632.12,336.09 " fill="none" id="attribute-backto-constant" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="1052.2,182.77,1073.38,183.15,1056.59,196.07,1052.2,182.77" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[f7acd4e37d10b9e313ed8a2d8d9e1a2c]
+reverse link attribute to counter--><path codeLine="108" d="M1057.56,261.84 C1019.12,289.96 981.06,317.8 950.81,339.92 " fill="none" id="attribute-backto-counter" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="1053.47,256.16,1073.75,250,1061.74,267.46,1053.47,256.16" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[8301ccb574189730c17363652d885d8a]
+reverse link attribute to mutable_constant--><path codeLine="111" d="M1409.33,262.43 C1430.2,278.66 1450.93,294.8 1470.18,309.78 " fill="none" id="attribute-backto-mutable_constant" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="1404.85,267.81,1393.37,250,1413.45,256.76,1404.85,267.81" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[126f6df448bb73c0b816b040b70bdfe6]
+reverse link attribute to current_thread_id--><path codeLine="112" d="M1238.5,270.27 C1238.5,298.71 1238.5,326.3 1238.5,347.35 " fill="none" id="attribute-backto-current_thread_id" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="1231.5,270,1238.5,250,1245.5,270,1231.5,270" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[eff9a5a68b5fe1944d8889be5e9b6b89]
+reverse link attribute to named_scope--><path codeLine="113" d="M1422.58,191.98 C1515.98,224.92 1630.71,267.28 1731.5,310 C1737.32,312.47 1743.23,315.03 1749.18,317.67 " fill="none" id="attribute-backto-named_scope" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="1420.14,198.54,1403.59,185.31,1424.78,185.33,1420.14,198.54" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[282a933a74f80d56f203b16032f6b86d]
+reverse link counter to impl--><path codeLine="114" d="M832.09,444.38 C811.9,467.28 790.46,494.9 775.5,523 C751.74,567.64 738.84,626.08 733.15,657.9 " fill="none" id="counter-backto-impl" style="stroke:#A80036;stroke-width:1.0;"/><ellipse cx="836.8203" cy="439.1391" fill="#FFFFFF" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="831.4606" x2="842.18" y1="445.0783" y2="433.2"/><line style="stroke:#A80036;stroke-width:1.0;" x1="830.8811" x2="842.7594" y1="433.7794" y2="444.4989"/><!--MD5=[4f4788e8ee7a9041e058ad59bff930f4]
+reverse link counter to impl_dec--><path codeLine="115" d="M888.5,448.37 C888.5,506.87 888.5,593.47 888.5,642.84 " fill="none" id="counter-backto-impl_dec" style="stroke:#A80036;stroke-width:1.0;"/><ellipse cx="888.5" cy="441.04" fill="#FFFFFF" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="888.5" x2="888.5" y1="449.04" y2="433.04"/><line style="stroke:#A80036;stroke-width:1.0;" x1="880.5" x2="896.5" y1="441.04" y2="441.04"/><!--MD5=[adae771c0b8e98812840c4793baed4e6]
+reverse link counter to impl_generic--><path codeLine="116" d="M936.66,444.99 C956.76,469.05 980.32,497.33 1001.5,523 C1035.19,563.83 1073.53,610.86 1099.59,642.92 " fill="none" id="counter-backto-impl_generic" style="stroke:#A80036;stroke-width:1.0;"/><ellipse cx="931.9275" cy="439.3308" fill="#FFFFFF" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="937.0549" x2="926.8" y1="445.4715" y2="433.19"/><line style="stroke:#A80036;stroke-width:1.0;" x1="925.7867" x2="938.0682" y1="444.4582" y2="434.2033"/><!--MD5=[77f3dbb22761729a57e24781ad13f8c2]
+reverse link counter to impl_inc--><path codeLine="117" d="M1011.21,438.76 C1032.23,447.12 1053.92,455.5 1074.5,463 C1155.71,492.61 1189.96,471.66 1259.5,523 C1301.98,554.36 1334.2,606.94 1352.71,642.76 " fill="none" id="counter-backto-impl_inc" style="stroke:#A80036;stroke-width:1.0;"/><ellipse cx="1004.5852" cy="436.1177" fill="#FFFFFF" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1012.0104" x2="997.16" y1="439.0954" y2="433.14"/><line style="stroke:#A80036;stroke-width:1.0;" x1="1001.6075" x2="1007.5629" y1="443.5429" y2="428.6925"/><!--MD5=[a1140e8605a10c55222071b0ca0427b2]
+reverse link named_scope to named_scope_list--><path codeLine="118" d="M1887.5,476.41 C1887.5,491.23 1887.5,506.98 1887.5,522.92 " fill="none" id="named_scope-backto-named_scope_list" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="1887.5,463.08,1883.5,469.08,1887.5,475.08,1891.5,469.08,1887.5,463.08" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[fe073d453b01023d33dc6665c2886302]
+@startuml
+class attribute{
+
+    +attribute()
+    +attribute(attribute const & that)
+    +attribute(attribute && that)
+    +explicit attribute(intrusive_ptr< impl > p)
+    +attribute& operator=(attribute const & that)
+    +attribute& operator=(attribute && that)
+    +bool operator!() const
+    +attribute_value get_value() const
+    +void swap(attribute & that)
+    +template<typename T> friend T attribute_cast(attribute const &)
+    #impl * get_impl() const
+    #void set_impl(intrusive_ptr< impl > p)
+
+    +struct impl 
+}
+' class basic_clock {
+'     +struct impl 
+'     +basic_clock()
+'     +explicit basic_clock(cast_source const & source)
+' }
+class constant{
+    +explicit constant(value_type const & value);
+    +explicit constant(value_type && value);
+    +explicit constant(cast_source const & source);
+    +value_type const & get() const;
+}
+class counter{
+    +typedef T value_type
+    +explicit counter(value_type initial = (value_type) 0, long step = 1)
+    +explicit counter(cast_source const & source)
+}
+class current_process_id{
+    +current_process_id()
+    +explicit current_process_id(cast_source const & source)
+}
+class current_process_name{
+    +current_process_name()
+    +explicit current_process_name(cast_source const & source)
+}
+class current_thread_id {
+    +current_thread_id()
+    +explicit current_thread_id(cast_source const & source)
+}
+' class function{
+'     +template<typename T> explicit function(T const & fun)
+'     +explicit function(cast_source const & source)
+' }
+class mutable_constant{
+    +explicit mutable_constant(value_type const & value)
+    +explicit mutable_constant(value_type && value)
+    +explicit mutable_constant(cast_source const & source)
+    +void set(value_type const & value)
+    +void set(value_type && value)
+    +value_type get() const
+    #impl * get_impl() const
+}
+class named_scope {
+    +typedef named_scope_list  value_type
+    +typedef value_type::value_type scope_entry
+    +named_scope()
+    +explicit named_scope(cast_source const & source)
+    +static void push_scope(scope_entry const & entry)
+    +static void pop_scope()
+    +static value_type const & get_scopes()
+}
+class named_scope_list{
+    +typedef allocator_type::value_type          value_type; 
+    +typedef implementation_defined              const_iterator;        
+    +typedef implementation_defined              iterator;              
+    +typedef implementation_defined              const_reverse_iterator;
+    +typedef implementation_defined              reverse_iterator; 
+    +named_scope_list();
+    +named_scope_list(named_scope_list const &);
+    +named_scope_list& operator=(named_scope_list const &);
+    +~named_scope_list();
+    +const_iterator begin() const;
+    +const_iterator end() const;
+    +const_reverse_iterator rbegin() const;
+    +const_reverse_iterator rend() const;
+    +size_type size() const;
+    +bool empty() const;
+    +void swap(named_scope_list &);
+    +const_reference back() const;
+    +const_reference front() const;
+}
+class impl
+
+class impl_dec{
+    +explicit impl_dec(value_type initial)
+    +attribute_value get_value()
+}
+class impl_generic {
+    +impl_generic(value_type initial, long step)
+    +attribute_value get_value()
+}
+class impl_inc {
+    +explicit impl_inc(value_type initial)
+    +attribute_value get_value()
+}
+
+
+
+constant <|- - current_process_name
+constant <|- - current_process_id
+attribute <|- - constant
+attribute <|- - counter
+' attribute <|- - basic_clock
+' attribute <|- - function
+attribute <|- - mutable_constant
+attribute <|- - current_thread_id
+attribute <|- - named_scope
+counter +- - impl
+counter +- - impl_dec
+counter +- - impl_generic
+counter +- - impl_inc
+named_scope o- - named_scope_list
+@enduml
+
+@startuml
+class attribute{
+
+    +attribute()
+    +attribute(attribute const & that)
+    +attribute(attribute && that)
+    +explicit attribute(intrusive_ptr< impl > p)
+    +attribute& operator=(attribute const & that)
+    +attribute& operator=(attribute && that)
+    +bool operator!() const
+    +attribute_value get_value() const
+    +void swap(attribute & that)
+    +template<typename T> friend T attribute_cast(attribute const &)
+    #impl * get_impl() const
+    #void set_impl(intrusive_ptr< impl > p)
+
+    +struct impl 
+}
+class constant{
+    +explicit constant(value_type const & value);
+    +explicit constant(value_type && value);
+    +explicit constant(cast_source const & source);
+    +value_type const & get() const;
+}
+class counter{
+    +typedef T value_type
+    +explicit counter(value_type initial = (value_type) 0, long step = 1)
+    +explicit counter(cast_source const & source)
+}
+class current_process_id{
+    +current_process_id()
+    +explicit current_process_id(cast_source const & source)
+}
+class current_process_name{
+    +current_process_name()
+    +explicit current_process_name(cast_source const & source)
+}
+class current_thread_id {
+    +current_thread_id()
+    +explicit current_thread_id(cast_source const & source)
+}
+class mutable_constant{
+    +explicit mutable_constant(value_type const & value)
+    +explicit mutable_constant(value_type && value)
+    +explicit mutable_constant(cast_source const & source)
+    +void set(value_type const & value)
+    +void set(value_type && value)
+    +value_type get() const
+    #impl * get_impl() const
+}
+class named_scope {
+    +typedef named_scope_list  value_type
+    +typedef value_type::value_type scope_entry
+    +named_scope()
+    +explicit named_scope(cast_source const & source)
+    +static void push_scope(scope_entry const & entry)
+    +static void pop_scope()
+    +static value_type const & get_scopes()
+}
+class named_scope_list{
+    +typedef allocator_type::value_type          value_type; 
+    +typedef implementation_defined              const_iterator;        
+    +typedef implementation_defined              iterator;              
+    +typedef implementation_defined              const_reverse_iterator;
+    +typedef implementation_defined              reverse_iterator; 
+    +named_scope_list();
+    +named_scope_list(named_scope_list const &);
+    +named_scope_list& operator=(named_scope_list const &);
+    +~named_scope_list();
+    +const_iterator begin() const;
+    +const_iterator end() const;
+    +const_reverse_iterator rbegin() const;
+    +const_reverse_iterator rend() const;
+    +size_type size() const;
+    +bool empty() const;
+    +void swap(named_scope_list &);
+    +const_reference back() const;
+    +const_reference front() const;
+}
+class impl
+
+class impl_dec{
+    +explicit impl_dec(value_type initial)
+    +attribute_value get_value()
+}
+class impl_generic {
+    +impl_generic(value_type initial, long step)
+    +attribute_value get_value()
+}
+class impl_inc {
+    +explicit impl_inc(value_type initial)
+    +attribute_value get_value()
+}
+
+
+
+constant <|- - current_process_name
+constant <|- - current_process_id
+attribute <|- - constant
+attribute <|- - counter
+attribute <|- - mutable_constant
+attribute <|- - current_thread_id
+attribute <|- - named_scope
+counter +- - impl
+counter +- - impl_dec
+counter +- - impl_generic
+counter +- - impl_inc
+named_scope o- - named_scope_list
+@enduml
+
+PlantUML version 1.2022.0(Wed Jan 12 00:16:42 CST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: GBK
+Language: zh
+Country: CN
+--></g></svg>
